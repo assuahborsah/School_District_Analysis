@@ -10,8 +10,9 @@ Resources
 4.	PythonData Environment
 Results
 •	How is the district summary affected?
+
 cleaning_student_names file
-[image](https://user-images.githubusercontent.com/96086671/164510114-7d2d992f-186f-4644-b9f5-b30be11fa0e4.png)
+[Picture1](https://user-images.githubusercontent.com/96086671/164512260-f1fcbd4b-1644-4979-baae-66d98459f3fc.png)
 
 PyCitySchools_Challenge file
 [image](https://user-images.githubusercontent.com/96086671/164510234-57f490f6-c14e-4162-894d-9346b4c02c79.png)
